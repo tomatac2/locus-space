@@ -1,0 +1,16 @@
+https://play.google.com/store/apps/details?id=com.bazar.codesharaj
+
+
+api's (back-end project) :- <br>
+1- filter advertise by city Or area Or advertise name Or  category Or sub-category  Or sub-mini-category   or all <br>
+2- add advertise  <br>
+3- add advertise favorite<br>
+4- edit advertise <br>
+5-chat between users <br>
+6-rating <br>
+7- sms technology <br>
+8-public messages between users <br>
+9-private messages between users <br>
+10- register and login <br>
+11- push notifications 
+
