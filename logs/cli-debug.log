@@ -1,0 +1,381 @@
+2022-06-09 05:50:59 Notice: Deprecated (16384): Security::salt() is deprecated. Use Security::getSalt()/setSalt() instead. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 151
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Utility\Security::salt() - CORE/src/Utility/Security.php, line 389
+include - ROOT/config/bootstrap.php, line 151
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Use Cake\Http\ServerRequest instead of Cake\Network\Request. - /home/msareg6/public_html/my_apps/locus-space/vendor/composer/ClassLoader.php, line: 571
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+include - CORE/src/Network/Request.php, line 4
+Composer\Autoload\includeFile - ROOT/vendor/composer/ClassLoader.php, line 571
+Composer\Autoload\ClassLoader::loadClass() - ROOT/vendor/composer/ClassLoader.php, line 428
+spl_autoload_call - [internal], line ??
+include - ROOT/config/bootstrap.php, line 163
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 193
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 193
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 225
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 225
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::bootstrap() is deprecated. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/Plugin.php, line: 172
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 285
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 172
+include - ROOT/config/bootstrap.php, line 225
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 227
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 227
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::bootstrap() is deprecated. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/Plugin.php, line: 172
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 285
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 172
+include - ROOT/config/bootstrap.php, line 227
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 228
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 228
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 229
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 229
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 230
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 230
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::bootstrap() is deprecated. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/Plugin.php, line: 172
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 285
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 172
+include - ROOT/config/bootstrap.php, line 230
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 232
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 232
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 234
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 234
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/config/bootstrap.php, line: 236
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+include - ROOT/config/bootstrap.php, line 236
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::load() is deprecated. Use Application::addPlugin() instead. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/bake/src/Shell/BakeShell.php, line: 61
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 117
+Bake\Shell\BakeShell::startup() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 61
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 515
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): Plugin::bootstrap() is deprecated. This method will be removed in 4.0.0. - /home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/Plugin.php, line: 172
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Core\Plugin::bootstrap() - CORE/src/Core/Plugin.php, line 285
+Cake\Core\Plugin::load() - CORE/src/Core/Plugin.php, line 172
+Bake\Shell\BakeShell::startup() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 61
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 515
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): App\Model\Table\ProjectPhotosTable::table() is deprecated. Use setTable()/getTable() instead. - /home/msareg6/public_html/my_apps/locus-space/src/Model/Table/ProjectPhotosTable.php, line: 28
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\ORM\Table::table() - CORE/src/ORM/Table.php, line 388
+App\Model\Table\ProjectPhotosTable::initialize() - APP/Model/Table/ProjectPhotosTable.php, line 28
+Cake\ORM\Table::__construct() - CORE/src/ORM/Table.php, line 299
+Cake\ORM\Locator\TableLocator::_create() - CORE/src/ORM/Locator/TableLocator.php, line 293
+Cake\ORM\Locator\TableLocator::get() - CORE/src/ORM/Locator/TableLocator.php, line 249
+Bake\Shell\Task\ModelTask::getTableObject() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 196
+Bake\Shell\Task\ModelTask::findHasMany() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 415
+Bake\Shell\Task\ModelTask::getAssociations() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 232
+Bake\Shell\Task\ModelTask::getTableContext() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 131
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): App\Model\Table\ProjectPhotosTable::displayField() is deprecated. Use setDisplayField()/getDisplayField() instead. - /home/msareg6/public_html/my_apps/locus-space/src/Model/Table/ProjectPhotosTable.php, line: 29
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\ORM\Table::displayField() - CORE/src/ORM/Table.php, line 767
+App\Model\Table\ProjectPhotosTable::initialize() - APP/Model/Table/ProjectPhotosTable.php, line 29
+Cake\ORM\Table::__construct() - CORE/src/ORM/Table.php, line 299
+Cake\ORM\Locator\TableLocator::_create() - CORE/src/ORM/Locator/TableLocator.php, line 293
+Cake\ORM\Locator\TableLocator::get() - CORE/src/ORM/Locator/TableLocator.php, line 249
+Bake\Shell\Task\ModelTask::getTableObject() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 196
+Bake\Shell\Task\ModelTask::findHasMany() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 415
+Bake\Shell\Task\ModelTask::getAssociations() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 232
+Bake\Shell\Task\ModelTask::getTableContext() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 131
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): App\Model\Table\ProjectPhotosTable::primaryKey() is deprecated. Use setPrimaryKey()/getPrimaryKey() instead. - /home/msareg6/public_html/my_apps/locus-space/src/Model/Table/ProjectPhotosTable.php, line: 30
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\ORM\Table::primaryKey() - CORE/src/ORM/Table.php, line 712
+App\Model\Table\ProjectPhotosTable::initialize() - APP/Model/Table/ProjectPhotosTable.php, line 30
+Cake\ORM\Table::__construct() - CORE/src/ORM/Table.php, line 299
+Cake\ORM\Locator\TableLocator::_create() - CORE/src/ORM/Locator/TableLocator.php, line 293
+Cake\ORM\Locator\TableLocator::get() - CORE/src/ORM/Locator/TableLocator.php, line 249
+Bake\Shell\Task\ModelTask::getTableObject() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 196
+Bake\Shell\Task\ModelTask::findHasMany() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 415
+Bake\Shell\Task\ModelTask::getAssociations() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 232
+Bake\Shell\Task\ModelTask::getTableContext() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 131
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): App\Model\Table\WorkListTable::table() is deprecated. Use setTable()/getTable() instead. - /home/msareg6/public_html/my_apps/locus-space/src/Model/Table/WorkListTable.php, line: 27
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\ORM\Table::table() - CORE/src/ORM/Table.php, line 388
+App\Model\Table\WorkListTable::initialize() - APP/Model/Table/WorkListTable.php, line 27
+Cake\ORM\Table::__construct() - CORE/src/ORM/Table.php, line 299
+Cake\ORM\Locator\TableLocator::_create() - CORE/src/ORM/Locator/TableLocator.php, line 293
+Cake\ORM\Locator\TableLocator::get() - CORE/src/ORM/Locator/TableLocator.php, line 249
+Bake\Shell\Task\ModelTask::getTableObject() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 196
+Bake\Shell\Task\ModelTask::findHasMany() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 415
+Bake\Shell\Task\ModelTask::getAssociations() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 232
+Bake\Shell\Task\ModelTask::getTableContext() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 131
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): App\Model\Table\WorkListTable::displayField() is deprecated. Use setDisplayField()/getDisplayField() instead. - /home/msareg6/public_html/my_apps/locus-space/src/Model/Table/WorkListTable.php, line: 28
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\ORM\Table::displayField() - CORE/src/ORM/Table.php, line 767
+App\Model\Table\WorkListTable::initialize() - APP/Model/Table/WorkListTable.php, line 28
+Cake\ORM\Table::__construct() - CORE/src/ORM/Table.php, line 299
+Cake\ORM\Locator\TableLocator::_create() - CORE/src/ORM/Locator/TableLocator.php, line 293
+Cake\ORM\Locator\TableLocator::get() - CORE/src/ORM/Locator/TableLocator.php, line 249
+Bake\Shell\Task\ModelTask::getTableObject() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 196
+Bake\Shell\Task\ModelTask::findHasMany() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 415
+Bake\Shell\Task\ModelTask::getAssociations() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 232
+Bake\Shell\Task\ModelTask::getTableContext() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 131
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): App\Model\Table\WorkListTable::primaryKey() is deprecated. Use setPrimaryKey()/getPrimaryKey() instead. - /home/msareg6/public_html/my_apps/locus-space/src/Model/Table/WorkListTable.php, line: 29
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\ORM\Table::primaryKey() - CORE/src/ORM/Table.php, line 712
+App\Model\Table\WorkListTable::initialize() - APP/Model/Table/WorkListTable.php, line 29
+Cake\ORM\Table::__construct() - CORE/src/ORM/Table.php, line 299
+Cake\ORM\Locator\TableLocator::_create() - CORE/src/ORM/Locator/TableLocator.php, line 293
+Cake\ORM\Locator\TableLocator::get() - CORE/src/ORM/Locator/TableLocator.php, line 249
+Bake\Shell\Task\ModelTask::getTableObject() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 196
+Bake\Shell\Task\ModelTask::findHasMany() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 415
+Bake\Shell\Task\ModelTask::getAssociations() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 232
+Bake\Shell\Task\ModelTask::getTableContext() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 131
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2022-06-09 05:50:59 Notice: Deprecated (16384): ServerRequest::session() is deprecated. Use getSession() instead. The setter part will be removed. - /home/msareg6/public_html/my_apps/locus-space/plugins/Usermgmt/src/Controller/Component/UserAuthComponent.php, line: 60
+ You can disable deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED` in your config/app.php. in [/home/msareg6/public_html/my_apps/locus-space/vendor/cakephp/cakephp/src/Core/functions.php, line 311]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+deprecationWarning - CORE/src/Core/functions.php, line 311
+Cake\Http\ServerRequest::session() - CORE/src/Http/ServerRequest.php, line 588
+Usermgmt\Controller\Component\UserAuthComponent::__construct() - ROOT/plugins/Usermgmt/src/Controller/Component/UserAuthComponent.php, line 60
+Cake\Controller\ComponentRegistry::_create() - CORE/src/Controller/ComponentRegistry.php, line 122
+Cake\Core\ObjectRegistry::load() - CORE/src/Core/ObjectRegistry.php, line 96
+Cake\Controller\Controller::loadComponent() - CORE/src/Controller/Controller.php, line 331
+Cake\Controller\Controller::_loadComponents() - CORE/src/Controller/Controller.php, line 657
+Cake\Controller\Controller::__construct() - CORE/src/Controller/Controller.php, line 273
+Bake\Shell\Task\TestTask::buildTestSubject() - ROOT/vendor/cakephp/bake/src/Shell/Task/TestTask.php, line 330
+Bake\Shell\Task\TestTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/TestTask.php, line 237
+Bake\Shell\Task\ControllerTask::bakeTest() - ROOT/vendor/cakephp/bake/src/Shell/Task/ControllerTask.php, line 213
+Bake\Shell\Task\ControllerTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ControllerTask.php, line 162
+Bake\Shell\Task\ControllerTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ControllerTask.php, line 69
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+

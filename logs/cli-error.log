@@ -1,0 +1,27 @@
+2022-06-09 05:50:59 Warning: Warning (2): Declaration of App\Controller\AppController::paginate($object = NULL) should be compatible with Cake\Controller\Controller::paginate($object = NULL, array $settings = Array) in [/home/msareg6/public_html/my_apps/locus-space/src/Controller/AppController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 168
+include - APP/Controller/AppController.php, line 7
+Composer\Autoload\includeFile - ROOT/vendor/composer/ClassLoader.php, line 571
+Composer\Autoload\ClassLoader::loadClass() - ROOT/vendor/composer/ClassLoader.php, line 428
+spl_autoload_call - [internal], line ??
+include - APP/Controller/ContactController.php, line 13
+Composer\Autoload\includeFile - ROOT/vendor/composer/ClassLoader.php, line 571
+Composer\Autoload\ClassLoader::loadClass() - ROOT/vendor/composer/ClassLoader.php, line 428
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Bake\Shell\Task\TestTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/TestTask.php, line 235
+Bake\Shell\Task\ControllerTask::bakeTest() - ROOT/vendor/cakephp/bake/src/Shell/Task/ControllerTask.php, line 213
+Bake\Shell\Task\ControllerTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ControllerTask.php, line 162
+Bake\Shell\Task\ControllerTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ControllerTask.php, line 69
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 282
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 64
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 283
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 517
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 229
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+

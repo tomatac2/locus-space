@@ -16,7 +16,7 @@
  */
 // for built-in server                 hatemcv.alhayah-technology.com
 //define('URL', '/');
-define('URL', 'http://localhost/locus/');
+define('URL', 'https://locus-space.com/');
 if (php_sapi_name() === 'cli-server') {
     $_SERVER['PHP_SELF'] = '/' . basename(__FILE__);
 

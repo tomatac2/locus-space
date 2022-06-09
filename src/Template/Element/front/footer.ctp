@@ -2,7 +2,7 @@
     <!-- style 9  logo -->
     <div class="ccw_style9 animated no-animation ccw-no-hover-an">
       
-        <a target="_blank" href="https://api.whatsapp.com/send?phone=201061725803" class="img-icon-a nofocus">   
+        <a target="_blank" href="https://api.whatsapp.com/send?phone=201118158320" class="img-icon-a nofocus">   
             <img class="img-icon ccw-analytics" id="style-9" data-ccw="style-9" style="height: 75px;" src="<?=URL?>img/icons/whatsapp.png" alt="WhatsApp chat">
         </a>
     </div>

@@ -55,10 +55,10 @@
             <ul class="links">
                 <li><a href="<?=URL?>#home">Home</a></li>
                 <li><a href="<?=URL?>#about-us">About</a></li>
-                <li><a href="<?=URL?>workList/OurApps">Our Apps</a></li>
                 <li><a href="<?=URL?>#services">Services</a></li>
-                <li><a href="<?=URL?>#gallery">gallery</a></li>
+                <li><a href="<?=URL?>#branches">Our Braches</a></li>
                 <li><a href="<?=URL?>#contact">Contact</a></li>
+                <li><a href="<?=URL?>workList/OurApps">Our Mobile Apps</a></li>
             </ul>
         </nav>
         <!-- End of top menu -->

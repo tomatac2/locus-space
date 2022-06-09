@@ -24,11 +24,14 @@
 <div id="fh5co-page">
 <!--    <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>-->
 
-
+    
     <div id="fh5co-main">
         <div class="fh5co-narrow-content">
+      
             <h2 class="fh5co-heading animate-box" data-animate-effect="fadeInRight">أعمالنا</h2>
             <div class="row row-bottom-padded-md">
+                <br>
+                <div style="text-align: center;"><?=$this->element('home/archive/our_apps')?></div>
                    <?php foreach($allApps as $allAppss): ?>
                 <div class="col-md-4  col-sm-6 col-padding text-center animate-box" data-animate-effect="fadeInRight" >
                     <a href="<?=URL?>workList/appDetails/<?=$allAppss['id'].'/'.str_replace(' ','-' , $allAppss['subject'])?>" class="work image-popup" style="background-image: url('<?=URL?>library/works/<?= $allAppss->photo ?>');">

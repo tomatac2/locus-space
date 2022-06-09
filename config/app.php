@@ -231,9 +231,9 @@ return [
              * the following line and set the port accordingly
              */
             //'port' => 'non_standard_port_number',
-            'username' => 'root',
-            'password' => '',
-            'database' => 'locus',
+            'username' => 'msareg6_toma',
+            'password' => 'a~MMYF}NQK)N',
+            'database' => 'msareg6_locus',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'flags' => [],
