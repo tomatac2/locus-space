@@ -38,7 +38,7 @@
                                                          Maadi :
                                                         <br> 9 Nasr Street 5th floor 
                                                         <br>Phone : 0155 9501221
-                                                        <br>Location :  <a target="_blank" href="goo.gl/maps/Y1jgRSGVemCHwBSAA">goo.gl/maps/Y1jgRSGVemCHwBSAA</a>
+                                                        <br>Location :  <a target="_blank" href="https://goo.gl/maps/Y1jgRSGVemCHwBSAA">https://goo.gl/maps/Y1jgRSGVemCHwBSAA</a>
 
                                                         <hr>
                                                          6 October :

@@ -72,11 +72,7 @@
         </div>
         <!-- End of Slider list section -->
 
-        <!-- Begin of register / socials section -->
-        <div class="section section-register section-cent fp-auto-height-responsive" data-section="register">
-             <?= $this->element('home/register') ?>
-        </div>
-        <!-- End of register / socials section -->
+
 
         <!-- Begin of contact section -->
         <div class="section section-contact fp-auto-height-responsive hide-clock" data-section="contact">
@@ -157,7 +153,11 @@
             <!-- end of message slide -->
         </div>
         <!-- End of contact section -->
-
+        <!-- Begin of register / socials section -->
+        <div class="section section-register section-cent fp-auto-height-responsive" data-section="register">
+             <?= $this->element('home/register') ?>
+        </div>
+        <!-- End of register / socials section -->
     </main>
 
     <style>

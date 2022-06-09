@@ -12,8 +12,11 @@
                         <div class="wrapper anim">
                         <!-- title and description -->
                         <div class="title-desc">
+                        <div class="illustr">
+                                        <img alt="a feature" src="https://locus-space.com/img/virtual.png">
+                                    </div>
                              <span class="anim-wrapper">
-                             <h4  class="blue-c"> Virtual Office </h4>
+                             <h4  style="color: #00aeef;"> Virtual Office </h4>
                                 <p>
                                     A virtual office provides a physical address and office-related services such as a mailing address, phone answering services, meeting rooms, and more...
                                 </p>

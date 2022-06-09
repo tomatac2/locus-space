@@ -95,29 +95,25 @@
                         <i class="icon ion-ios-list-outline"></i>
                     </a>
                 </li>
-                <li data-menuanchor="gallery">
-                    <a href="<?=URL?>#gallery">
-                        <span class="txt">Gallery</span>
+                <li data-menuanchor="branches">
+                    <a href="<?=URL?>#branches">
+                        <span class="txt"> Branches </span>
                         <i class="icon ion-ios-albums-outline"></i>
                     </a>
                 </li>
-                <li data-menuanchor="ourApps">
-                    <a href="<?=URL?>workList/OurApps">
-                        <span class="txt"> Apps</span>
-                        <i class="icon ion-ios-albums-outline"></i>
-                    </a>
-                </li>
-
-                <li data-menuanchor="register">
-                    <a href="<?=URL?>#register">
-                        <span class="txt">Register</span>
-                        <i class="icon ion-ios-compose-outline"></i>
-                    </a>
-                </li>
+          
+ 
                 <li data-menuanchor="contact">
                     <a href="<?=URL?>#contact">
                         <span class="txt">Contact</span>
                         <i class="icon ion-ios-telephone-outline"></i>
+                    </a>
+                </li>
+
+                <li data-menuanchor="ourApps">
+                    <a href="<?=URL?>workList/OurApps">
+                        <span class="txt"> Apps</span>
+                        <i class="icon ion-ios-albums-outline"></i>
                     </a>
                 </li>
             </ul>
